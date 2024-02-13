@@ -1,0 +1,16 @@
+{
+    "name": "Pengu Foods",
+    "description":"10,000 Pengu on-chain powered by ERC404. Our lil chef has been hard at work sorting and wrapping all the pengu treats... ",
+    "image": "https://raw.githubusercontent.com/iampengu404/metadata/main/images/wrapped_black.png",
+    "external_url":"https://pengufoods.xyz",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "black"
+      },
+      {
+        "trait_type": "status",
+        "value": "wrapped"
+      }
+    ]
+  }
