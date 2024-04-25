@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "value": "Sardine Brow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Sardine Grey",
+      "trait_type": "Food Group"
+    },
+    {
+      "value": "Sardine Grit",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Sardine Magic",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Water"
+    }
+  ],
+  "description": "10,000 unique DN404 NFTs... mission is simple... feed the pengs!",
+  "image": "https://raw.githubusercontent.com/iampengu404/metadata/main/images/5970.png",
+  "name": "Pengu Foods #5970"
+}

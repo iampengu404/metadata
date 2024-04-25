@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "value": "Krill Exed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Krill Green",
+      "trait_type": "Food Group"
+    },
+    {
+      "value": "Krill Sucker",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Krill Fire",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Water"
+    }
+  ],
+  "description": "10,000 unique DN404 NFTs... mission is simple... feed the pengs!",
+  "image": "https://raw.githubusercontent.com/iampengu404/metadata/main/images/5754.png",
+  "name": "Pengu Foods #5754"
+}

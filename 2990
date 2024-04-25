@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "value": "Squid Purpley",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Squid Orange",
+      "trait_type": "Food Group"
+    },
+    {
+      "value": "Squid Smudge",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "None",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Water"
+    }
+  ],
+  "description": "10,000 unique DN404 NFTs... mission is simple... feed the pengs!",
+  "image": "https://raw.githubusercontent.com/iampengu404/metadata/main/images/2990.png",
+  "name": "Pengu Foods #2990"
+}
